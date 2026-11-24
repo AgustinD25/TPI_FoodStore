@@ -1,0 +1,16 @@
+# Variables de entorno (solo se suben los .env.example)
+.env
+**/.env
+
+# Dependencias y compilados
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+dist/
+*.db
+
+# Editor
+.vscode/
+.idea/
