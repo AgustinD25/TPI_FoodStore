@@ -8,8 +8,8 @@ Aplicación web de pedidos de comida: catálogo público, carrito, pedidos con c
 
 | | |
 |---|---|
-| Repositorio | https://github.com/COMPLETAR/COMPLETAR |
-| Video de demostración | COMPLETAR (enlace al video) |
+| Repositorio | https://github.com/AgustinD25/TPI_FoodStore |
+| Video de demostración | https://www.youtube.com/watch?v=6CFARHi9wyI |
 | Alumno | Agustín Díaz |
 
 ## Estructura
